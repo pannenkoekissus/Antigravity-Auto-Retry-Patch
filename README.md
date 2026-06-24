@@ -1,5 +1,7 @@
 # Antigravity Auto-Retry Patch
 
+Note: This is a fork and nothing has been edited from the original repo
+
 This utility provides a robust, cross-platform patch for the **Antigravity IDE** (VS Code based) that automatically checks for and clicks "Retry" (or "Wiederholen") buttons in the workbench UI.
 
 ## Why is this useful?
